@@ -2,7 +2,7 @@
 
 
 .vscode
-public/css/
+src/public/css/
 
 # dependencies
 /node_modules

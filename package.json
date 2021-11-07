@@ -1,0 +1,27 @@
+{
+  "name": "blog-8f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chung999kchy/nodejs-train.git"
+  },
+  "keywords": [
+    "nodejs",
+    "8f",
+    "chung"
+  ],
+  "author": "VuxTV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chung999kchy/nodejs-train/issues"
+  },
+  "homepage": "https://github.com/chung999kchy/nodejs-train#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
